@@ -149,3 +149,5 @@ summarylength = 25
     #  description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
     [params.footer.back_to_top]
       description = "I want to go <br> back to the top."
+
+publishDir = "docs"
