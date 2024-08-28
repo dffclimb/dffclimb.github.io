@@ -1,0 +1,21 @@
+enable  : false
+title   : "Meet Our Team"
+subtitle: "The people who make it happen"
+testimonial_item :
+  - thumb : "images/testimonial/CedomirStefanovic.jpg"
+    name  : "Cedomir Stefanovic"
+    company_position: "Professor"
+    quote : > 
+            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+
+  - thumb : "images/testimonial/hossam.jpg"
+    name  : "Hossam Mohamed Farag"
+    company_position: "Tenure Track Assistant Professor"
+    quote : > 
+            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+
+  - thumb : "images/testimonial/OzanKaraali.jpg"
+    name  : "Ozan Karaali"
+    company_position: "Ph.D. Fellow"
+    quote : > 
+            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 

@@ -1,0 +1,16 @@
+enable: true
+title   : Team that makes the difference.
+members :
+  - image: "images/team/CedomirStefanovic.jpg"
+    name: "Cedomir Stefanovic"
+    designation: "Professor"
+  - image: "images/team/hossam.jpg"
+    name: "Hossam Mohamed Farag"
+    designation: "Tenure Track Assistant Professor"
+  - image: "images/team/OzanKaraali.jpg"
+    name: "Ozan Karaali"
+    designation: "Ph.D. Fellow"
+    email: "ozank@es.aau.dk"
+    quote : > 
+      PhD fellow at the Department of Electronic Systems at Aalborg University, focusing on 5G Networks and Robotics. 
+      Previous experience includes completing an M.Sc. in Informatics with a specialization in Computer Vision at the Technical University of Munich, and a B.Sc. in Computer Engineering at Abdullah Gül University. Authored a thesis on deep learning methods for ultrasound image super-resolution. Worked at DFKI on a project connected to the interdisciplinary architectural AI project at TU Munich, designing predictive models. At BMW Group, contributed to optimizing ride-hailing algorithms, significantly reducing simulation time at HORIZON 2020 project EVOLVE.
