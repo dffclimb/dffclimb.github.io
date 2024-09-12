@@ -42,4 +42,17 @@
       margin-bottom: 0;
     }
   }
+  &-description-bot{
+    // width: 60%;
+    padding-left: 50px;
+    @include desktop{
+      width: 100%;
+      padding: 0 38px;
+    }
+    p{
+      font-size: 25px;
+      font-weight: 300;
+      margin-bottom: 0;
+    }
+  }
 }

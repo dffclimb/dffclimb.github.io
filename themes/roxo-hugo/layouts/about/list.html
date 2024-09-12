@@ -24,7 +24,7 @@
 <section class="site-expertise">
   <div class="container">
     <div class="row">
-      {{ with .Params.expertise_title }}
+      {{ with .Params.mission_title }}
       <div class="col-md-5">
         <div class="section-title">
           <h2>{{ . }}</h2>
@@ -32,11 +32,53 @@
       </div>
       {{ end }}
       <div class="col-md-6">
+        <div class="site-about-description-bot">
+          <p>
+            {{ .Params.mission_description }}
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      {{ with .Params.expertise_title }}
+      <div class="col-md-5">
+        <div class="section-title">
+          <h2>{{ . }}</h2>
+        </div>
+      </div>
+      {{ end }}
+      <div class="col-md-6 site-about-description-bot">
         <ul class="site-expertise-list">
           {{ range .Params.expertise_sectors }}
           <li>{{ . }}</li>
           {{ end }}
         </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      {{ with .Params.approach_title }}
+      <div class="col-md-5">
+        <div class="section-title">
+          <h2>{{ . }}</h2>
+        </div>
+      </div>
+      {{ end }}
+      <div class="col-md-6">
+        <div class="site-about-description-bot">
+          <p>
+            {{ .Params.approach_description }}
+          </p>
+        </div>
       </div>
     </div>
   </div>

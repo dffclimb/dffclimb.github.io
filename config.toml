@@ -23,10 +23,10 @@ summarylength = 25
     name    = "Blog"
     url     = "blog"
     weight  = 4
-  [[menu.nav]]
-    name    = "Publications"
-    url     = "publications"
-    weight  = 5
+  #[[menu.nav]]
+  #  name    = "Publications"
+  #  url     = "publications"
+  #  weight  = 5
   [[menu.nav]]
     name    = "Contact"
     url     = "contact"
@@ -86,7 +86,7 @@ summarylength = 25
     read_more             = "read more"
 
   [params.portfolio]
-    enable    = true
+    enable    = false
     title     = "OUR PROJECTS"
     subtitle  = "Innovative solutions for assistive technology."
     view_project = "view project"
@@ -122,9 +122,9 @@ summarylength = 25
       [[params.footer.sitemap.link]]
         name = "Blog"
         url  = "blog"
-      [[params.footer.sitemap.link]]
-        name = "Publications"
-        url  = "publications"
+    #  [[params.footer.sitemap.link]]
+    #    name = "Publications"
+    #    url  = "publications"
       [[params.footer.sitemap.link]]
         name = "Contact"
         url  = "contact"
