@@ -4,25 +4,42 @@ members :
   - image: "images/team/AlexanderLøvigBorg.jpg"
     name: "Alexander Løvig Borg"
     designation: "Research Assistant"
+    email: "alexanderlb@hst.aau.dk"
+    quote : > 
+      Alexander Løvig Borg  is a Ph.D. fellow in Neurorehabilitation Systems at the Department of Medicine and Health Technology, Aalborg University. His research focuses on neurorehabilitation, with particular emphasis on patients with tremor. His current project involves developing an online system for tremor reduction in patients with conditions such as Parkinson's disease and essential tremor. Additionally, he has conducted research on sensory feedback systems for amputees and navigation assistance technologies. He holds a Master's degree in Health Technology, with his thesis on assessing navigational performance using novel vibrotactile feedback schemes. His research interests include assistive technologies, sensory feedback systems, and neurorehabilitation solutions for individuals with neurological conditions and physical disabilities.
   - image: "images/team/CedomirStefanovic.jpg"
     name: "Cedomir Stefanovic"
+    email: "cs@es.aau.dk"
     designation: "Professor"
+    quote : > 
+      Cedomir Stefanovic received his Ph.D. degree from the University of Novi Sad, Serbia. He is a full professor at the Department of Electronic Systems, Aalborg University, Denmark, where he leads the Edge Computing and Networking Research Group. He is/was the coordinator and the principal researcher on numerous European and Danish projects dealing with next-generation wireless systems. He has coauthored more than 150 peer-reviewed publications. His research interests include communication theory and wireless communications, and he specializes in the Internet of Things, 5G/beyond 5G networks, and mission-critical communications for verticals.
   - image: "images/team/HosamMohamedFaragMohamed.jpg"
     name: "Hossam Mohamed Farag"
+    email: "hmf@es.aau.dk"
     designation: "Tenure Track Assistant Professor"
+    quote : > 
+      Hossam Mohamed Farag received M.Sc. degree in Electrical Engineering from Aswan University (Egypt) in 2015 and Ph.D. degree in Computer Engineering from Mid Sweden University (Sweden) in 2020. From 2020 to 2022, he was a postdoctoral fellow with the Department of Electronic Systems at Aalborg University (Denmark). Currently, he is an Assistant Professor at the Department of Electronic Systems at Aalborg University (Denmark). His current research focuses on next-generation wireless networks (5G, 6G, and beyond), applied AI and ML in wireless networks, random access protocols, wireless sensor networks, and reliable and real-time communication for Industrial IoT networks.
   - image: "images/team/MartinAlexanderGarenfeld.jpg"
     name: "Martin Alexander Garenfeld"
     designation: "PhD, Post.Doc"
+    quote : >
+      Martin received his undergraduate and master's degree in biomedical engineeringfrom Aalborg University in 2017 and 2019, respectively. Following graduation, Mar-tin continued the academic path at Aalborg University and has since July 2019 beena PhD student in the Neurorehabilitation Systems research group at the Departmentof Health Science and Technology supervised by Professor Strahinja Dosen and co-supervised by Associate Professor Jakob Lund Dideriksen. The PhD project focusedon the intuitive communication of somatosensory information of multifunctional my-oelectric hand prostheses. Parallel to the PhD project, Martin has been involved inadditional activities of contributing to the EU-funded projects TACTILITY andSIXTH SENSE, submitting and publishing studies outside the PhD project, reviewingmanuscripts, acting as a panelist and presenter at webinars and workshops and partic-ipating in teaching activities including semester coordination, guest lecturing and co-examining at project exams.
+    email: "magar@hst.aau.dk"
   - image: "images/team/OzanKaraali.jpg"
     name: "Ozan Karaali"
     designation: "Ph.D. Fellow"
     email: "ozank@es.aau.dk"
-    quote : > 
-      PhD fellow at the Department of Electronic Systems at Aalborg University, focusing on 5G Networks and Robotics. 
-      Previous experience includes completing an M.Sc. in Informatics with a specialization in Computer Vision at the Technical University of Munich, and a B.Sc. in Computer Engineering at Abdullah Gül University. Authored a thesis on deep learning methods for ultrasound image super-resolution. Worked at DFKI on a project connected to the interdisciplinary architectural AI project at TU Munich, designing predictive models. At BMW Group, contributed to optimizing ride-hailing algorithms, significantly reducing simulation time at HORIZON 2020 project EVOLVE.
+    quote : >
+      Ozan Karaali is a Ph.D. fellow in the Wireless Communications program at the Department of Elec tronic Systems, Aalborg University. Within the CLIMB project, his research focuses on enabling 5G connectivity for prosthetic technologies, including hand control and computer vision. He holds a Master's degree in Informatics from the Technical University of Munich (TUM), specializing in deep learning for ultrasound image super-resolution. He gained experience at DFKI and BMW Group during his Master's studies. He also holds a B.Sc. in Computer Engineering from Abdullah Gül University. His research interests include 5G robotics, assistive robotics, and video processing using both classical and machine learning techniques.
   - image: "images/team/SamanehBadri.jpg"
     name: "Samaneh Badri"
+    email: "samanehb@hst.aau.dk"
     designation: "Ph.D. Fellow"
+    quote : > 
+      Samaneh Badri is a Ph.D. fellow in Neurorehabilitation Systems at the Department of Medicine and Health Technology, Aalborg University. Her research focuses on assistive technologies and rehabilitation engineering, with particular expertise in powered orthoses and mobility solutions for patients with spinal cord injuries. She is involved in the CLIMB project, which develops cloud-connected bionic limbs with advanced connectivity and processing capabilities. Her previous work includes designing and analyzing powered foot clearance mechanisms for walking assistance in spinal cord injury patients. She holds a background in mechanical engineering from Sharif University of Technology, Tehran, and has experience with the Javad Movafaghian Research Center for Intelligent NeuroRehabilitation Technologies. Her research interests include powered orthotic devices, gait rehabilitation systems, and assistive technologies for individuals with mobility impairments.
   - image: "images/team/StrahinjaDosen.jpg"
     name: "Strahinja Dosen"
     designation: "Professor"
+    email: "sdosen@hst.aau.dk"
+    quote : > 
+      Strahinja Dosen is currently a full professor in rehab robotics at the Department of Health Science and Technology (HST), Aalborg University (AAU), 9260 Gistrup, Denmark, where he leads a research group on neurorehabilitation systems. He has been the principal investigator for AAU and HST in several European Union-funded (Tactility, Wearplex, Sixthsense, and SimBionics) and nationally funded (Robin, Remap, and Climb) projects. He has published more than 120 articles in peer-reviewed journals. His research interests include closed-loop control of movements and assistive systems, methods and technologies for human-machine interfacing, rehabilitation robotics, artificial sensory feedback, haptics, and functional electrical stimulation.
