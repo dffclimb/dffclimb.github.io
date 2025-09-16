@@ -16,17 +16,13 @@ summarylength = 25
     url     = "about"
     weight  = 2
   [[menu.nav]]
-    name    = "Projects"
-    url     = "portfolio"
+    name    = "Publications"
+    url     = "publications"
     weight  = 3
   [[menu.nav]]
     name    = "Blog"
     url     = "blog"
     weight  = 4
-  #[[menu.nav]]
-  #  name    = "Publications"
-  #  url     = "publications"
-  #  weight  = 5
   [[menu.nav]]
     name    = "Contact"
     url     = "contact"
@@ -85,12 +81,12 @@ summarylength = 25
   [params.blog]
     read_more             = "read more"
 
-  [params.portfolio]
-    enable    = false
-    title     = "OUR PROJECTS"
+  [params.publications]
+    enable    = true
+    title     = "Our Publications"
     subtitle  = "Innovative solutions for assistive technology."
-    view_project = "view project"
-    more_works = "MORE PROJECTS"
+    view_project = "view publication"
+    more_works = "More Publications"
     scroll_down = "scroll down"
 
   [params.call_to_action]
@@ -99,8 +95,8 @@ summarylength = 25
     title               = "LET’S WORK TOGETHER"
     primary_button      = "Submit Query"
     primary_button_url  = "contact"
-    secondary_button    = "See Our Projects"
-    secondary_button_url = "portfolio"
+    secondary_button    = "See Our Publications"
+    secondary_button_url = "publications"
 
   [params.footer]
     qr_print = false
@@ -117,14 +113,11 @@ summarylength = 25
         name = "About Project"
         url  = "about"
       [[params.footer.sitemap.link]]
-        name = "Projects"
-        url  = "portfolio"
+        name = "Publications"
+        url  = "publications"
       [[params.footer.sitemap.link]]
         name = "Blog"
         url  = "blog"
-    #  [[params.footer.sitemap.link]]
-    #    name = "Publications"
-    #    url  = "publications"
       [[params.footer.sitemap.link]]
         name = "Contact"
         url  = "contact"
